@@ -2,6 +2,8 @@
 
 Welcome to the **Real Madrid Blog**! 🏆 Stay updated on the latest news, match highlights, and player spotlights about the legendary Real Madrid team! 🌟
 
+🔗 **Live Preview**: [Click here to view the site](https://takosalakaia.github.io/didactic-octo-succotash/) 🚀
+
 ## Features
 
 - 🏅 **Animated Icons**: Real Madrid logos in motion.
@@ -13,5 +15,8 @@ Welcome to the **Real Madrid Blog**! 🏆 Stay updated on the latest news, match
 - 🔧 **HTML5**
 - 🎨 **CSS3** (animations, Flexbox)
 - 🖋️ **Google Fonts**
-# didactic-octo-succotash
-A simple front-end animation project built with HTML and CSS, inspired by Real Madrid. 
+
+---
+
+# 🧪 didactic-octo-succotash  
+A simple front-end animation project built with HTML and CSS, inspired by Real Madrid.  
